@@ -16,7 +16,7 @@ html, body {
 }
 /*  */
 body {
-    background-image: url('/images/bg-pattern-top.svg'),url('/images/bg-pattern-bottom.svg');
+    background-image: url('images/bg-pattern-top.svg'),url('images/bg-pattern-bottom.svg');
     background-position: right 60vw bottom 39vh, left 60vw top 39vh;
     /* background-image: url('background.png'); */
     height: 100%;
