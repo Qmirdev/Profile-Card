@@ -5,9 +5,9 @@ html, body {
 }
 /*  */
 body {
-    background-image: url('images/bg-pattern-top.png'),url('images/bg-pattern-bottom.png');
-    background-position: right 60vw bottom 39vh, left 60vw top 39vh;
-    /* background-image: url('background.png'); */
+    /* background-image: url('images/bg-pattern-top.png'),url('images/bg-pattern-bottom.png'); */
+    /* background-position: right 60vw bottom 39vh, left 60vw top 39vh; */
+    background-image: url('background.png');
     height: 100%;
     width: 100%;
     background-color: HSL(184, 75%, 38%);
